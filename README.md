@@ -1,5 +1,4 @@
-academiasoftware
+# academiasoftware
 
-Carlos jesus barragan monter
-===
-
+Carlos Jesus Barragan Monter
+Raul Barragan Martinez
