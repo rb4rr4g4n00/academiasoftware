@@ -1,7 +1,12 @@
 # academiasoftware
 
-## Carlos Jesus Barragan Monter
+Carlos Jesus Barragan Monter
+* Primer ejercicio de readme
+---
+
 
 
 ## Raul Barragan Martinez
-- Primer ejercicio de Readme
+
+* Primer ejercicio de Readme
+
